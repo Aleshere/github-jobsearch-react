@@ -16,8 +16,11 @@
 &nbsp;
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
-## And This is the usual stuff
+## And This is the usual stuff :)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
