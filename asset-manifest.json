@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/github-jobsearch-react/public/static/js/main.d124505b.chunk.js",
-    "main.js.map": "/github-jobsearch-react/public/static/js/main.d124505b.chunk.js.map",
+    "main.js": "/github-jobsearch-react/public/static/js/main.c1546003.chunk.js",
+    "main.js.map": "/github-jobsearch-react/public/static/js/main.c1546003.chunk.js.map",
     "runtime-main.js": "/github-jobsearch-react/public/static/js/runtime-main.8ebfa7c2.js",
     "runtime-main.js.map": "/github-jobsearch-react/public/static/js/runtime-main.8ebfa7c2.js.map",
     "static/js/2.02e9321f.chunk.js": "/github-jobsearch-react/public/static/js/2.02e9321f.chunk.js",
     "static/js/2.02e9321f.chunk.js.map": "/github-jobsearch-react/public/static/js/2.02e9321f.chunk.js.map",
     "index.html": "/github-jobsearch-react/public/index.html",
-    "precache-manifest.8b10bbe80c1f3bec79c483c0f477e047.js": "/github-jobsearch-react/public/precache-manifest.8b10bbe80c1f3bec79c483c0f477e047.js",
+    "precache-manifest.7266381f1d0905f7a7e088db1f4ecb9c.js": "/github-jobsearch-react/public/precache-manifest.7266381f1d0905f7a7e088db1f4ecb9c.js",
     "service-worker.js": "/github-jobsearch-react/public/service-worker.js",
     "static/js/2.02e9321f.chunk.js.LICENSE.txt": "/github-jobsearch-react/public/static/js/2.02e9321f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8ebfa7c2.js",
     "static/js/2.02e9321f.chunk.js",
-    "static/js/main.d124505b.chunk.js"
+    "static/js/main.c1546003.chunk.js"
   ]
 }
