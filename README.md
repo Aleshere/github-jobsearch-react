@@ -6,7 +6,7 @@
 > bootstrap React (inc. Card, Badge, Container, Button, Collapse. And also custom styling techniques)  
 > refreshed my knowledge of useState and useEffect  
 > props drilling and destructuring  
-> render technique such as --> \{loading && <h1>Loading...</h1>}\  
+> render technique such as --> `{loading && <h1>Loading...</h1>}`  
 > CORS error workaround (proxy via heroku // allorigin API)  
 > axios canx tokens  
 > git terminal deployment via npm  
