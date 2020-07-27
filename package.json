@@ -13,7 +13,7 @@
     "react-markdown": "^4.3.1",
     "react-scripts": "3.4.1"
   },
-  "homepage": "http://https://aleshere.github.io/github-jobsearch-react/",
+  "homepage": "http://aleshere.github.io/github-jobsearch-react/public",
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
