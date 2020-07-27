@@ -13,7 +13,9 @@
 > github Pages deployment error management (https vs http, npm run deploy)  
 > markdown language to edit this Readme file  
       
-
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## And This is the usual stuff
 
