@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "//aleshere.github.io/github-jobsearch-react/static/js/main.d124505b.chunk.js",
+    "main.js.map": "//aleshere.github.io/github-jobsearch-react/static/js/main.d124505b.chunk.js.map",
+    "runtime-main.js": "//aleshere.github.io/github-jobsearch-react/static/js/runtime-main.69adcc1c.js",
+    "runtime-main.js.map": "//aleshere.github.io/github-jobsearch-react/static/js/runtime-main.69adcc1c.js.map",
+    "static/js/2.02e9321f.chunk.js": "//aleshere.github.io/github-jobsearch-react/static/js/2.02e9321f.chunk.js",
+    "static/js/2.02e9321f.chunk.js.map": "//aleshere.github.io/github-jobsearch-react/static/js/2.02e9321f.chunk.js.map",
+    "index.html": "//aleshere.github.io/github-jobsearch-react/index.html",
+    "precache-manifest.d23648b5757d03360d8a1b32fee50a73.js": "//aleshere.github.io/github-jobsearch-react/precache-manifest.d23648b5757d03360d8a1b32fee50a73.js",
+    "service-worker.js": "//aleshere.github.io/github-jobsearch-react/service-worker.js",
+    "static/js/2.02e9321f.chunk.js.LICENSE.txt": "//aleshere.github.io/github-jobsearch-react/static/js/2.02e9321f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69adcc1c.js",
+    "static/js/2.02e9321f.chunk.js",
+    "static/js/main.d124505b.chunk.js"
+  ]
+}
