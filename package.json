@@ -13,15 +13,14 @@
     "react-markdown": "^4.3.1",
     "react-scripts": "3.4.1"
   },
-  "homepage": "http://Aleshere.github.io/github-jobsearch-react/public",
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "npm run build&&gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "http://aleshere.github.io/github-jobsearch-react/public",
   "eslintConfig": {
     "extends": "react-app"
   },
