@@ -20,7 +20,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "http://aleshere.github.io/github-jobsearch-react/public",
+  "homepage": "https://aleshere.github.io/github-jobsearch-react/",
   "eslintConfig": {
     "extends": "react-app"
   },
