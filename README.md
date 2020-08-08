@@ -1,3 +1,27 @@
+
+# This is an App that showcases the current jobs postings on GitHub.
+## Based on a tutorial by Web Dev Simplified Youtube Channel
+
+# What I learned
+> bootstrap React (inc. Card, Badge, Container, Button, Collapse. And also custom styling techniques)  
+> refreshed my knowledge of useState and useEffect  
+> props drilling and destructuring  
+> render technique such as --> `{loading && <h1>Loading...</h1>}`  
+> CORS error workaround (proxy via heroku // allorigin API)  
+> axios canx tokens  
+> git terminal deployment via npm  
+> github Pages deployment error management (https vs http, npm run deploy)  
+> markdown language to edit this Readme file  
+      
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+## And This is the usual stuff :)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
